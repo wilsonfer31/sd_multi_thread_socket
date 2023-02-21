@@ -1,1 +1,1 @@
-Multi Trade Socket Cursus
+Multi Thread Socket Cursus
