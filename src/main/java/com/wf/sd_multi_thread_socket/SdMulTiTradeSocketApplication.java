@@ -1,4 +1,4 @@
-package com.wf.sd_multi_trade_socket;
+package com.wf.sd_multi_thread_socket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

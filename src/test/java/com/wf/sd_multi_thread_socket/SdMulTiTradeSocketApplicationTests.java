@@ -1,4 +1,4 @@
-package com.wf.sd_multi_trade_socket;
+package com.wf.sd_multi_thread_socket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
